@@ -1,7 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 
-const PORT = 3000
+const PORT = 2000
 const app = express()
 
 app.use(cors()) // Use this after the variable declaration
